@@ -35,13 +35,16 @@ Estimates emissions for goods and services by collecting data on the economic va
 
 
 
+## Envizi Virtual Accounts
 
-## Envizi Virtual Accounts setup
 
 
 ## Usecase : Scope 3 emission calcuation using Hybrid method
 
 <img src="images/Scope3-Usecase-Hybrid-method-calculation.png">
+
+## Example Banking usecase:
+
 
 
 ## Conclusion
